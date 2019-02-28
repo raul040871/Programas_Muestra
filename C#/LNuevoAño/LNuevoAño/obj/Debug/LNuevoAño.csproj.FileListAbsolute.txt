@@ -1,0 +1,9 @@
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\LNuevoAño.dll
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\LNuevoAño.pdb
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.csprojResolveAssemblyReference.cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.FormNuevoAño.resources
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.Properties.Resources.resources
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.csproj.GenerateResource.Cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.csproj.CoreCompileInputs.cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.dll
+C:\Programas c#\AHCB_Diario_De_Barcelona\LNuevoAño\LNuevoAño\obj\Debug\LNuevoAño.pdb

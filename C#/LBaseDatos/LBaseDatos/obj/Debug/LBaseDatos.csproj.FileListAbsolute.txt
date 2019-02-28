@@ -1,0 +1,6 @@
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\LBaseDatos.dll.config
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\LBaseDatos.dll
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\LBaseDatos.pdb
+C:\Programas c#\AHCB_Diario_De_Barcelona\LBaseDatos\LBaseDatos\obj\Debug\LBaseDatos.csproj.CoreCompileInputs.cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\LBaseDatos\LBaseDatos\obj\Debug\LBaseDatos.dll
+C:\Programas c#\AHCB_Diario_De_Barcelona\LBaseDatos\LBaseDatos\obj\Debug\LBaseDatos.pdb

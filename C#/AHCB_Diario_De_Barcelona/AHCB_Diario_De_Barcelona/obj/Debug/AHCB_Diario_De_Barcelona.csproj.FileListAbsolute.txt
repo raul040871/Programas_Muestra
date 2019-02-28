@@ -1,0 +1,10 @@
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\AHCB_Diario_De_Barcelona.exe.config
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\AHCB_Diario_De_Barcelona.exe
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\bin\Debug\AHCB_Diario_De_Barcelona.pdb
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.csprojResolveAssemblyReference.cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.FrmPrimcipal.resources
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.Properties.Resources.resources
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.csproj.GenerateResource.Cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.csproj.CoreCompileInputs.cache
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.exe
+C:\Programas c#\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\AHCB_Diario_De_Barcelona\obj\Debug\AHCB_Diario_De_Barcelona.pdb
